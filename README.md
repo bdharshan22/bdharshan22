@@ -16,7 +16,7 @@ I'm a passionate and aspiring full-stack developer currently pursuing my B.Tech 
 ### 🛠️ My Tech Stack
 *Here are a few technologies I've been working with recently:*
 
-- **Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap 
+- **Frontend:** HTML5, CSS3, JavaScript, React
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, GitHub, VS Code, Docker, Postman

@@ -8,10 +8,9 @@ I'm a passionate and aspiring full-stack developer currently pursuing my B.Tech 
 - 🌱 I’m currently learning more about front-end and back-end development and exploring other technologies.
 - 👯 I’m looking to collaborate on exciting open-source or team-based web development projects.
 
-<br>
-<br>
-
-<img src="illustration.png" alt="Coding illustration" alt="Coding illustration" width="450" align="right" hspace="20">
+<p align="center">
+  <img src="illustration.png" alt="Coding illustration" width="450">
+</p>
 
 ### 🛠️ My Tech Stack
 *Here are a few technologies I've been working with recently:*
@@ -21,13 +20,8 @@ I'm a passionate and aspiring full-stack developer currently pursuing my B.Tech 
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, GitHub, VS Code, Docker, Postman
 
-  <br>
-  <br>
-
- <br clear="all">
+<br>
 
 <p align="center">
- Show some ❤️ by starring some of the repositories !!.</p> </div>
-<!--- Footer End -->
-<!--- Body End -->
-
+  Show some ❤️ by starring some of the repositories !!.
+</p>

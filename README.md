@@ -11,7 +11,7 @@ I'm a passionate and aspiring full-stack developer currently pursuing my B.Tech 
 <br>
 <br>
 
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Coding illustration" alt="Coding illustration" width="450" align="right" hspace="20">
+<img src="illustration.png" alt="Coding illustration" alt="Coding illustration" width="450" align="right" hspace="20">
 
 ### 🛠️ My Tech Stack
 *Here are a few technologies I've been working with recently:*

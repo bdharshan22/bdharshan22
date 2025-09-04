@@ -23,5 +23,5 @@ I'm a passionate and aspiring full-stack developer currently pursuing my B.Tech 
 <br>
 
 <p align="center">
-  Show some ❤️ by starring some of the repositories !!.
+  Show some ❤️ by starring some of the repositories!!
 </p>

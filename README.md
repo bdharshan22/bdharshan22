@@ -1,5 +1,10 @@
 Hi there 👋, I'm Dharshan
-👨‍💻 Full-Stack Developer | 🎓 B.Tech Information Technology Student | 📍 Bannari Amman Institute of Technology.
+
+👨‍💻 Full-Stack Developer  
+
+🎓 B.Tech Information Technology Student 
+
+📍 Bannari Amman Institute of Technology.
 
 I'm a passionate and aspiring full-stack developer currently pursuing my B.Tech in Information Technology. I love building web applications and exploring new technologies to create seamless and engaging user experiences.
 
@@ -9,10 +14,11 @@ I'm a passionate and aspiring full-stack developer currently pursuing my B.Tech 
 
 
 
-🛠️ My Tech Stack
+🛠️ My Tech Stack:
+
 Here are a few technologies I've been working with recently:
 
-Frontend: HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap
+Frontend: HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap, MUI
 
 Backend: Node.js, Express
 

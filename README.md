@@ -8,7 +8,7 @@
 
 I'm a passionate and aspiring full-stack developer currently pursuing my B.Tech in Information Technology. I love building web applications and exploring new technologies to create seamless and engaging user experiences.
 
-🌱 I’m currently learning more about back-end development with Node.js and exploring other technologies.
+🌱 I’m currently learning more about front-end and back-end development and exploring other technologies.
 
 👯 I’m looking to collaborate on exciting open-source or team-based web development projects.
 

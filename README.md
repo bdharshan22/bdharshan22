@@ -10,9 +10,7 @@ I'm a passionate and aspiring full-stack developer currently pursuing my B.Tech 
 
 ---
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Coding illustration" width="450">
-</p>
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Coding illustration" width="450" align="right" hspace="20">
 
 ### 🛠️ My Tech Stack
 *Here are a few technologies I've been working with recently:*
@@ -21,3 +19,14 @@ I'm a passionate and aspiring full-stack developer currently pursuing my B.Tech 
 - **Backend:** Node.js, Express
 - **Databases:** MongoDB, MySQL
 - **Tools:** Git, GitHub, VS Code, Docker, Postman
+
+  <br>
+  <br>
+
+ <br clear="all">
+
+<p align="center">
+ Show some ❤️ by starring some of the repositories !!.</p> </div>
+<!--- Footer End -->
+<!--- Body End -->
+

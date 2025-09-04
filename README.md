@@ -9,14 +9,10 @@ I'm a passionate and aspiring full-stack developer currently pursuing my B.Tech 
 
 
 
-📫 How to reach me: b.dharshan2005@gmail.com or connect with me on [LinkedIn Profile URL]
-
-
-
 🛠️ My Tech Stack
 Here are a few technologies I've been working with recently:
 
-Frontend: HTML5, CSS3, JavaScript , React, Tailwind CSS
+Frontend: HTML5, CSS3, JavaScript, React, Tailwind CSS, Bootstrap
 
 Backend: Node.js, Express
 

@@ -6,6 +6,9 @@ I'm a passionate and aspiring full-stack developer currently pursuing my B.Tech 
 - 🎓 **Education:** B.Tech Information Technology Student
 - 📍 **Institution:** Bannari Amman Institute of Technology
 
+- - 🌱 I’m currently learning more about front-end and back-end development and exploring other technologies.
+- 👯 I’m looking to collaborate on exciting open-source or team-based web development projects.
+
 ---
 
 
@@ -16,8 +19,7 @@ I'm a passionate and aspiring full-stack developer currently pursuing my B.Tech 
 
 
 
-- 🌱 I’m currently learning more about front-end and back-end development and exploring other technologies.
-- 👯 I’m looking to collaborate on exciting open-source or team-based web development projects.
+
 
 ### 🛠️ My Tech Stack
 *Here are a few technologies I've been working with recently:*
